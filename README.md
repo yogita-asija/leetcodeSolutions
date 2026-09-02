@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0189-rotate-array) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
