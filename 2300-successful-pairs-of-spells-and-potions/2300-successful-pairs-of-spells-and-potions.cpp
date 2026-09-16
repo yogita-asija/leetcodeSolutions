@@ -1,0 +1,29 @@
+class Solution {
+public:
+    vector<int> successfulPairs(vector<int>& spells,
+                                vector<int>& potions,
+                                long long success) {
+
+        sort(potions.begin(), potions.end());
+
+        vector<int> answer;
+
+        for(long long spell : spells) {
+
+            long long required =
+                (success + spell - 1) / spell;
+
+            int index = lower_bound(
+                potions.begin(),
+                potions.end(),
+                required
+            ) - potions.begin();
+
+            int count = potions.size() - index;
+
+            answer.push_back(count);
+        }
+
+        return answer;
+    }
+};
