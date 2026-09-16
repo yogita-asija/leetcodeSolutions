@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0885-spiral-matrix-iii) |
 | [1572-matrix-diagonal-sum](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1572-matrix-diagonal-sum) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0162-find-peak-element) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Math
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0217-contains-duplicate) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Quickselect
 |  |
 | ------- |
@@ -107,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
+## Sweep Line
+|  |
+| ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1851-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
