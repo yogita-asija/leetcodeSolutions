@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-reorder-data-in-log-files](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0937-reorder-data-in-log-files) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1572-matrix-diagonal-sum](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0791-custom-sort-string](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0791-custom-sort-string) |
 | [0911-online-election](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0911-online-election) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Sorting
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-reorder-data-in-log-files](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0937-reorder-data-in-log-files) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0179-largest-number) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Matrix
 |  |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 ## Bucket Sort
 |  |
 | ------- |
