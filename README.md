@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0911-online-election](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0911-online-election) |
 | [0937-reorder-data-in-log-files](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0937-reorder-data-in-log-files) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1572-matrix-diagonal-sum](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1572-matrix-diagonal-sum) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0791-custom-sort-string) |
 | [0937-reorder-data-in-log-files](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0937-reorder-data-in-log-files) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0832-flipping-an-image) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Stack
 |  |
 | ------- |
@@ -154,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0406-queue-reconstruction-by-height) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
