@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0885-spiral-matrix-iii) |
 | [0911-online-election](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0911-online-election) |
 | [0937-reorder-data-in-log-files](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0937-reorder-data-in-log-files) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0525-contiguous-array) |
 | [0791-custom-sort-string](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0791-custom-sort-string) |
 | [0911-online-election](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0911-online-election) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Sorting
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0525-contiguous-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sliding Window
 |  |
 | ------- |
