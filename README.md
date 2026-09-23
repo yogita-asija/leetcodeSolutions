@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0406-queue-reconstruction-by-height](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0406-queue-reconstruction-by-height) |
+| [0525-contiguous-array](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0525-contiguous-array) |
 | [0832-flipping-an-image](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0885-spiral-matrix-iii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0451-sort-characters-by-frequency](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0525-contiguous-array](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0525-contiguous-array) |
 | [0791-custom-sort-string](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0791-custom-sort-string) |
 | [0911-online-election](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0911-online-election) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
