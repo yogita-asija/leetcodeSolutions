@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0179-largest-number](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0179-largest-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0073-set-matrix-zeroes](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1248-count-number-of-nice-subarrays) |
