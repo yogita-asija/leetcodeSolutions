@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-minimum-interval-to-include-each-query](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2845-count-of-interesting-subarrays](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2845-count-of-interesting-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1590-make-sum-divisible-by-p](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2845-count-of-interesting-subarrays](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2845-count-of-interesting-subarrays) |
 ## Sorting
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1590-make-sum-divisible-by-p) |
+| [2845-count-of-interesting-subarrays](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2845-count-of-interesting-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
