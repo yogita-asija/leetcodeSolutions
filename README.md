@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0152-maximum-product-subarray) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
 | [0179-largest-number](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0179-largest-number) |
 | [0336-palindrome-pairs](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0336-palindrome-pairs) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -285,4 +288,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
