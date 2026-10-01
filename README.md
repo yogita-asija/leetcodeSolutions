@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0454-4sum-ii) |
 | [0523-continuous-subarray-sum](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0525-contiguous-array) |
+| [0739-daily-temperatures](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0885-spiral-matrix-iii) |
@@ -194,11 +195,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0739-daily-temperatures) |
 ## Sweep Line
 |  |
 | ------- |
