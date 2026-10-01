@@ -196,12 +196,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0901-online-stock-span) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0901-online-stock-span) |
 ## Sweep Line
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0460-lfu-cache) |
+| [0901-online-stock-span](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0901-online-stock-span) |
 | [0911-online-election](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0911-online-election) |
 ## Binary Indexed Tree
 |  |
@@ -294,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
