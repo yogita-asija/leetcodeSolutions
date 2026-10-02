@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-minimum-interval-to-include-each-query](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2454-next-greater-element-iv](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2454-next-greater-element-iv) |
 | [2845-count-of-interesting-subarrays](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2845-count-of-interesting-subarrays) |
 ## Dynamic Programming
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-minimum-interval-to-include-each-query](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2454-next-greater-element-iv](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2454-next-greater-element-iv) |
 ## Math
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-minimum-interval-to-include-each-query](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2454-next-greater-element-iv](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2454-next-greater-element-iv) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1851-minimum-interval-to-include-each-query) |
+| [2454-next-greater-element-iv](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2454-next-greater-element-iv) |
 ## Quickselect
 |  |
 | ------- |
@@ -198,12 +202,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0901-online-stock-span) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [2454-next-greater-element-iv](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2454-next-greater-element-iv) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0901-online-stock-span) |
+| [2454-next-greater-element-iv](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2454-next-greater-element-iv) |
 ## Sweep Line
 |  |
 | ------- |
