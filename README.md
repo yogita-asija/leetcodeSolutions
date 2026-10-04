@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0796-rotate-string) |
 | [0937-reorder-data-in-log-files](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0937-reorder-data-in-log-files) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## String Matching
 |  |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0901-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2454-next-greater-element-iv](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2454-next-greater-element-iv) |
