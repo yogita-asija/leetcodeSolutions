@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0796-rotate-string) |
 | [0937-reorder-data-in-log-files](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0937-reorder-data-in-log-files) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## String Matching
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0402-remove-k-digits) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Matrix
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2454-next-greater-element-iv](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2454-next-greater-element-iv) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2454-next-greater-element-iv](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2454-next-greater-element-iv) |
 ## Sweep Line
