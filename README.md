@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1572-matrix-diagonal-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Matrix
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2454-next-greater-element-iv](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2454-next-greater-element-iv) |
 ## Monotonic Stack
 |  |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2454-next-greater-element-iv](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2454-next-greater-element-iv) |
 ## Sweep Line
 |  |
