@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0726-number-of-atoms](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0726-number-of-atoms) |
 | [0791-custom-sort-string](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0796-rotate-string) |
 | [0937-reorder-data-in-log-files](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0937-reorder-data-in-log-files) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0460-lfu-cache) |
 | [0523-continuous-subarray-sum](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0525-contiguous-array) |
+| [0726-number-of-atoms](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0726-number-of-atoms) |
 | [0791-custom-sort-string](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0791-custom-sort-string) |
 | [0911-online-election](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0911-online-election) |
 | [0930-binary-subarrays-with-sum](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0406-queue-reconstruction-by-height](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0451-sort-characters-by-frequency](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0726-number-of-atoms](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0726-number-of-atoms) |
 | [0791-custom-sort-string](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0791-custom-sort-string) |
 | [0937-reorder-data-in-log-files](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0937-reorder-data-in-log-files) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0402-remove-k-digits) |
+| [0726-number-of-atoms](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0901-online-stock-span) |
