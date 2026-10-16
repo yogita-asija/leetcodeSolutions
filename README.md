@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0189-rotate-array) |
+| [0295-find-median-from-data-stream](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0832-flipping-an-image) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0217-contains-duplicate) |
+| [0295-find-median-from-data-stream](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0406-queue-reconstruction-by-height](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0451-sort-characters-by-frequency](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2454-next-greater-element-iv](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2454-next-greater-element-iv) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0901-online-stock-span) |
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0901-online-stock-span) |
 ## Recursion
 |  |
