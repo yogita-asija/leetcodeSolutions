@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [2235-add-two-integers](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2235-add-two-integers) |
 ## Two Pointers
 |  |
 | ------- |
