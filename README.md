@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1572-matrix-diagonal-sum](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1572-matrix-diagonal-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1590-make-sum-divisible-by-p) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1480-running-sum-of-1d-array](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1590-make-sum-divisible-by-p) |
 | [2845-count-of-interesting-subarrays](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2845-count-of-interesting-subarrays) |
 ## Sliding Window
