@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2235-add-two-integers](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2235-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2469-convert-the-temperature) |
 ## Two Pointers
 |  |
 | ------- |
