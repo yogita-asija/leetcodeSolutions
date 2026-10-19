@@ -369,13 +369,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2236-root-equals-sum-of-children](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2236-root-equals-sum-of-children](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2236-root-equals-sum-of-children) |
 ## Tournament Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+## Depth-First Search
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 <!---LeetCode Topics End-->
