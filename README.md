@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2454-next-greater-element-iv](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2454-next-greater-element-iv) |
 ## Quickselect
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Treap
 |  |
 | ------- |
@@ -395,4 +399,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1091-shortest-path-in-binary-matrix) |
+## Queue
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
