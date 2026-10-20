@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0336-palindrome-pairs](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0239-sliding-window-maximum](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -402,9 +405,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
