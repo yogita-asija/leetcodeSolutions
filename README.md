@@ -404,12 +404,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0802-find-eventual-safe-states](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0802-find-eventual-safe-states) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0802-find-eventual-safe-states](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0802-find-eventual-safe-states) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Queue
 |  |
@@ -433,4 +435,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
+## Graph Theory
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0802-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
