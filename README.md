@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0525-contiguous-array) |
 | [0735-asteroid-collision](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0739-daily-temperatures) |
+| [0752-open-the-lock](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0752-open-the-lock) |
 | [0832-flipping-an-image](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0885-spiral-matrix-iii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0726-number-of-atoms](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0726-number-of-atoms) |
+| [0752-open-the-lock](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0752-open-the-lock) |
 | [0791-custom-sort-string](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0796-rotate-string) |
 | [0937-reorder-data-in-log-files](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0937-reorder-data-in-log-files) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0525-contiguous-array) |
 | [0726-number-of-atoms](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0726-number-of-atoms) |
+| [0752-open-the-lock](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0752-open-the-lock) |
 | [0791-custom-sort-string](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0791-custom-sort-string) |
 | [0911-online-election](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0911-online-election) |
 | [0930-binary-subarrays-with-sum](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0752-open-the-lock](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0752-open-the-lock) |
 | [0802-find-eventual-safe-states](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0802-find-eventual-safe-states) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -459,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0802-find-eventual-safe-states) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
