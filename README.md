@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0058-length-of-last-word) |
+| [0127-word-ladder](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0316-remove-duplicate-letters) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0073-set-matrix-zeroes](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0336-palindrome-pairs](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0336-palindrome-pairs) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0127-word-ladder) |
 | [0417-pacific-atlantic-water-flow](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -466,5 +469,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bidirectional Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0127-word-ladder) |
 | [0752-open-the-lock](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
