@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0189-rotate-array) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
@@ -473,4 +476,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0127-word-ladder) |
 | [0752-open-the-lock](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0752-open-the-lock) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
