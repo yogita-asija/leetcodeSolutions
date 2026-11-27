@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2454-next-greater-element-iv](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2454-next-greater-element-iv) |
 | [2845-count-of-interesting-subarrays](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2845-count-of-interesting-subarrays) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/yogita-asija/leetcodeSolutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0152-maximum-product-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/yogita-asija/leetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/yogita-asija/leetcodeSolutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/yogita-asija/leetcodeSolutions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/yogita-asija/leetcodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/yogita-asija/leetcodeSolutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Matrix
 |  |
 | ------- |
